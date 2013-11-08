@@ -1,3 +1,5 @@
+#h2 in mem
+app/mem
 logs
 project/project
 project/target
